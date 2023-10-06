@@ -1,0 +1,1 @@
+This flutter app I created is a versatile and interactive restaurant menu application that helps users explore and manage their meal preferences. It offers a wide range of features, including meal categories, favorite meal tracking, and filter options for dietary preferences
